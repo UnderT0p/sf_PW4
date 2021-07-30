@@ -10,3 +10,5 @@ sudo apt-get update && sudo apt-get install jfrog-artifactory-pro
 
 python3 -m pip install
 
+
+http://178.154.241.121:8082 - jfrog
