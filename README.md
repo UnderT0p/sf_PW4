@@ -1,6 +1,5 @@
 # sf_PW4
 
-echo "deb https://releases.jfrog.io/artifactory/artifactory-pro-debs xenial main" | sudo tee -a /etc/apt/sources.list
 
 wget -qO - https://releases.jfrog.io/artifactory/api/gpg/key/public | sudo apt-key add -
 
